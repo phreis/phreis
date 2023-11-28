@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on flexible-approval. An open-source digital workplace platform were you can define and run your approval workflows.
+
+- 📫 How to reach me: [philipp00@gmail.com](mailto:philipp00@gmail.com)
+
+- Website (UI5): [philippreisinger.at](https://philippreisinger.at/)
 <!--
 **phreis/phreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
