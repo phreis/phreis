@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on flexible-approval. An open-source digital workplace platform were you can define and run your approval workflows.
 
-- 📫 How to reach me: [philipp00@gmail.com](mailto:philipp00@gmail.com)
+- 📫 How to reach me: [philippr00@gmail.com](mailto:philippr00@gmail.com)
 
 - Website (UI5): [philippreisinger.at](https://philippreisinger.at/)
 <!--
